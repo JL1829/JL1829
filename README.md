@@ -14,7 +14,7 @@ class README(object):
     def doing(self, now=2020):
         today = self.year
 
-        if now - today > 4:
+        if abs(now - today) > 4:
             experience = self.employment['System Engineer']
             return """
             I am a system engineer with around 10 years of solution design and 
