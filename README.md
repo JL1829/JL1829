@@ -11,7 +11,7 @@ class README(object):
             'Master': ['MSc of Technology and Intelligent System', 'NUS'], 
         }
     
-    def doing(self, now=2020):
+    def doing(self, year=2020):
         today = self.year
 
         if abs(now - today) > 4:
