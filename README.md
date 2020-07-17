@@ -1,3 +1,7 @@
+[![](https://img.shields.io/badge/LinkedIn-JohnnyLU-blue)](https://www.linkedin.com/in/jl1829/)
+[![](https://img.shields.io/badge/email-joh@johdev.com-red)](mailto:joh@johdev.com)
+[![](https://img.shields.io/badge/HackerRank-johnnylou89-brightgreen)](https://www.hackerrank.com/johnnylou89)
+
 ```python
 class README(object):
     """Doc String PlaceHolder"""
