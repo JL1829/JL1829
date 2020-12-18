@@ -14,7 +14,7 @@ class README(object):
                                  'Coursera': 'Deep Learning',
                                  'Coursera': 'TensorFlow Certified Engineer'
                                  'Imperial College London': 'Mathematic for Machine Learning'},
-            'Master': ['MSc of Technology and Intelligent System', 'NUS'], 
+            'Master': ['MSc of Technology and Intelligent System', 'National University of Singapore'], 
         }
     
     def doing(self, now=2020):
