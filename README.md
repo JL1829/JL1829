@@ -11,7 +11,7 @@ class README(object):
         self.FullName = 'Johnny(ZHIPING) Lu'
         self.education = {
             'Machine Learning': {'Standford University': 'Machine Learning',
-                                 'Coursera': 'Deep Learning,
+                                 'Coursera': 'Deep Learning',
                                  'Coursera': 'TensorFlow Certified Engineer'
                                  'Imperial College London': 'Mathematic for Machine Learning'},
             'Master': ['MSc of Technology and Intelligent System', 'NUS'], 
