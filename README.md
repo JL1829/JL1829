@@ -21,9 +21,9 @@ class README(object):
         today = self.year
         
         if now == today:
-            experience = self.employment['Lead Consulting Engineer']
+            experience = self.employment['Machine Learning Developer']
             return """
-            I am a Lead Consulting Engineer for Machine Learning and Data Science, current
+            I am a Machine Learning Developer, current
             working project:
              - Customer purchase value prediction
              - Customer sentimental anaylser for review
