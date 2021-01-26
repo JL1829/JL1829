@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/HackerRank-johnnylou89-brightgreen)](https://www.hackerrank.com/johnnylou89)
 
 ```python
-class README(object):
+class README:
     """Doc String PlaceHolder"""
 
     def __init__(self, username='JL1829', year=2020):
