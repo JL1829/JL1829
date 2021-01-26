@@ -6,7 +6,7 @@
 class README:
     """Doc String PlaceHolder"""
 
-    def __init__(self, username='JL1829', year=2020):
+    def __init__(self, username='JL1829', year=2021):
         self.username = username
         self.FullName = 'Johnny(ZHIPING) Lu'
         self.education = {
@@ -17,7 +17,7 @@ class README:
             'Master': ['MSc of Technology and Intelligent System', 'National University of Singapore'], 
         }
     
-    def doing(self, now=2020):
+    def doing(self, now=2021):
         today = self.year
         
         if now == today:
@@ -50,6 +50,6 @@ class README:
             ### Hi there ~~
             """
 
-me = README(2020)
+me = README(2021)
 
 ```
